@@ -1,2 +1,2 @@
 # chessbot6000
-Self taught chess master
+Self-taught chess master
